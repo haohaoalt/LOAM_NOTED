@@ -1,4 +1,5 @@
 # LOAM_NOTED
+用于自己学习
 LOAM中文注解版与相关论文，若有差错欢迎指正～
 
 Here you can see the loam code noted in Chinese and the loam related papers.
